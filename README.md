@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Financial application](https://github.com/Sensaz/TSXFinanse)
 
-- 🌱 I’m currently learning **UI Test, TS, Node, Express, GraphQL**
+- 🌱 I’m currently learning **UI Test, TS, Node, Express, GraphQL, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://klaudiuszwiktorportfolio.online](https://klaudiuszwiktorportfolio.online)
 
