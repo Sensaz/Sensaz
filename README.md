@@ -3,17 +3,11 @@
 
 - 🔭 I’m currently working on [Financial application](https://github.com/Sensaz/TSXFinanse)
 
-- 🌱 I’m currently learning **UI Test, TS, Node, Express, GraphQL, Next.js**
-
-- 👨‍💻 All of my projects are available at [https://klaudiuszwiktorportfolio.online](https://klaudiuszwiktorportfolio.online)
+- 🌱 I’m currently learning **React Native and Machine Learning in python**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/klaudiusz-wiktor-webdev/](https://www.linkedin.com/in/klaudiusz-wiktor-webdev/)
 
-- 💬 Ask me about **Every programming problem (I like solve)**
-
 - 📫 How to reach me **klaudiusz.wiktor1@gmail.com**
-
-- 📝 I regularly recording video on [https://www.youtube.com/channel/UCsWnmhLCqFfbXPx00B3cQ1g](https://www.youtube.com/channel/UCsWnmhLCqFfbXPx00B3cQ1g)
 
 - ⚡ My thought **Language is just a tool, the real challenge lies in understanding and solving problems.**
 
