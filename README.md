@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klaudiusz</h1>
 <h3 align="center">A passionate web dev from Poland</h3>
 
-- 🔭 I’m currently working on [Financial application](https://github.com/Sensaz/TSXFinanse)
+- 🔭 I’m currently working on a mobile expense tracking app.
 
 - 🌱 I’m currently learning **React Native and Machine Learning in python**
 
